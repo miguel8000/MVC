@@ -1,0 +1,41 @@
+*{
+    font-family: 'Arial';
+    font-size: 1.0rem;
+}
+.divLink{
+    margin: 20px 15px 20px;
+    
+}
+.link{
+    padding: 10px 10px 10px 10px;
+    text-decoration-style: none;
+    color: #dcdcdc;
+    border-radius: 3px;
+}
+.link:hover{
+    text-decoration:none;
+}
+.addLinkBg{
+    background-color: #454d55;
+}
+.addLinkBg:hover{
+    background-color: #dcdcdc;
+	color: #454d55;
+	transition: 0.5s;
+}
+.editLinkBg{
+    background-color:#27ae60;
+}
+.editLinkBg:hover{
+    background-color: #dcdcdc;
+	color:  #20bf6b;
+	transition: 0.5s;
+}
+.delLinkBg{
+    background-color:#c0392b;
+}
+.delLinkBg:hover{
+    background-color: #dcdcdc;
+	color: #e84b3a;
+	transition: 0.5s;
+}
